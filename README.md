@@ -8,6 +8,7 @@ In this project, you’ll use  CSS visual rules to create rule sets and improve 
 ## Installation
 
 ```bash
+git clone https://github.com/SenayYakut/Olivia-Woodruff-Portfolio.git
 ```
 
 ## Usage
