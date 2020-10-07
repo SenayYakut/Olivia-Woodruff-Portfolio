@@ -12,7 +12,7 @@ git clone https://github.com/SenayYakut/Senay-Yakut-Portfolio.git
 ```
 
 ## Usage
-
+https://senayyakut.github.io/Senay-Yakut-Portfolio/
 
 
 ## Contributing
