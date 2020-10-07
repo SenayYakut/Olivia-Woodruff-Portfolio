@@ -1,6 +1,6 @@
 # Olivia-Woodruff-Portfolio
 
-Olivia Woodruff Portfolio is a HTML5, CSS3 project.
+Senay Yakut Portfolio is a HTML5, CSS3 project.
 
 
 In this project, you’ll use  CSS visual rules to create rule sets and improve the appearance of a photography portfolio site!
@@ -8,7 +8,7 @@ In this project, you’ll use  CSS visual rules to create rule sets and improve 
 ## Installation
 
 ```bash
-git clone https://github.com/SenayYakut/Olivia-Woodruff-Portfolio.git
+git clone https://github.com/SenayYakut/Senay-Yakut-Portfolio.git
 ```
 
 ## Usage
