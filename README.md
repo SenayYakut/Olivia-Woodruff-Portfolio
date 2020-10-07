@@ -1,4 +1,4 @@
-# Olivia-Woodruff-Portfolio
+# Senay-Yakut-Portfolio
 
 Senay Yakut Portfolio is a HTML5, CSS3 project.
 
